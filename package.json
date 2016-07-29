@@ -1,0 +1,25 @@
+{
+  "name": "amazon-firetv-remote",
+  "version": "0.1.0",
+  "description": "This project is small utility for building HTML5 App for Amazon Fire TV and you want to map Remote Control button with JavaScript KeyCode.",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "keywords": [
+    "Amazon Fire TV",
+    "HTML5 app for Fire TV",
+    "Remote Control mapping in JS"
+  ],
+  "author": "Bhavinkumar Desai",
+  "license": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/brentertz/scapegoat/blob/master/LICENSE-MIT"
+    }
+  ],
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
